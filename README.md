@@ -5,15 +5,15 @@
 <center><br><br>
    ## MY SOCIAL MEDIA<br>
    <a href="https://www.facebook.com/T0XICxAKX" target="_blank"><img src="https://raw.githubusercontent.com/AKXVAU/AKXVAU/main/fb.png" alt="alt text" width="25" height="25"></a>
-   <a href="http://dev.akxvau.ml" target="_blank"><img src="https://raw.githubusercontent.com/AKXVAU/AKXVAU/main/site.png" alt="alt text" width="25" height="25"></a>
+   <a href="https://x0n4y3m.github.io/" target="_blank"><img src="https://raw.githubusercontent.com/AKXVAU/AKXVAU/main/site.png" alt="alt text" width="25" height="25"></a>
    <a href="https://t.me/toxicxakx"><img src="https://raw.githubusercontent.com/AKXVAU/AKXVAU/main/tg.png" alt="alt text" width="25" height="25"></a>
 </a><a href="https://Instagram.com/AKXVAU" target="_blank"><img src="https://raw.githubusercontent.com/AKXVAU/AKXVAU/main/insta.png" alt="alt text" width="25" height="25"></a>
  <a href="https://twitter.com/AKXVAU" target="_blank"><img src="https://raw.githubusercontent.com/AKXVAU/AKXVAU/main/twit.png" alt="alt text" width="25" height="25"></a>
 &nbsp;&nbsp;     &nbsp;&nbsp;    &nbsp;&nbsp;   &nbsp;&nbsp;   &nbsp;&nbsp;
  <br><br><hr>
-<div align="center">Contact With Me: <a href="https://FACEBOOK.com/AKXVAU"><b>Mohammad Alamin</a><br><br></div>
+<div align="center">Contact With Me: <a href="https://FACEBOOK.com/AKXVAU"><b>X0N4Y3M</a><br><br></div>
 <p align="center">
-<img src="https://raw.githubusercontent.com/AKXVAU/AKXVAU/main/mail.png" width="25" height="25">  <a href = "mailto: txvirusx@gmail.com">Send Email</a><br><br>
+<img src="https://raw.githubusercontent.com/AKXVAU/AKXVAU/main/mail.png" width="25" height="25">  <a href = "mailto: admin@itzsabbir.ml">Send Email</a><br><br>
 </p><br>
 
 ![AK27X stats](https://github-readme-stats.vercel.app/api?username=AKXVAU&show_icons=true&theme=dark)
