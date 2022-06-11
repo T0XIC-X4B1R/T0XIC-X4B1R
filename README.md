@@ -1,10 +1,28 @@
-- 👋 Hi, I’m @T0XIC-X4B1R
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70000&size=15&lines=Assalamualaikum+guys%2C+I+am+No+One.;I+am+just+trying+to+learn+programming.)](https://github.com/Toxic-Pyscho)
+<br>
 
-<!---
-T0XIC-X4B1R/T0XIC-X4B1R is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<img src="https://raw.githubusercontent.com/AKXVAU/AKXVAU/main/akxvau.gif" width="100" align="left">
+<center><br><br>
+   ## MY SOCIAL MEDIA<br>
+   <a href="https://www.facebook.com/T0XICxAKX" target="_blank"><img src="https://raw.githubusercontent.com/AKXVAU/AKXVAU/main/fb.png" alt="alt text" width="25" height="25"></a>
+   <a href="http://dev.akxvau.ml" target="_blank"><img src="https://raw.githubusercontent.com/AKXVAU/AKXVAU/main/site.png" alt="alt text" width="25" height="25"></a>
+   <a href="https://t.me/toxicxakx"><img src="https://raw.githubusercontent.com/AKXVAU/AKXVAU/main/tg.png" alt="alt text" width="25" height="25"></a>
+</a><a href="https://Instagram.com/AKXVAU" target="_blank"><img src="https://raw.githubusercontent.com/AKXVAU/AKXVAU/main/insta.png" alt="alt text" width="25" height="25"></a>
+ <a href="https://twitter.com/AKXVAU" target="_blank"><img src="https://raw.githubusercontent.com/AKXVAU/AKXVAU/main/twit.png" alt="alt text" width="25" height="25"></a>
+&nbsp;&nbsp;     &nbsp;&nbsp;    &nbsp;&nbsp;   &nbsp;&nbsp;   &nbsp;&nbsp;
+ <br><br><hr>
+<div align="center">Contact With Me: <a href="https://FACEBOOK.com/AKXVAU"><b>Mohammad Alamin</a><br><br></div>
+<p align="center">
+<img src="https://raw.githubusercontent.com/AKXVAU/AKXVAU/main/mail.png" width="25" height="25">  <a href = "mailto: txvirusx@gmail.com">Send Email</a><br><br>
+</p><br>
+
+![AK27X stats](https://github-readme-stats.vercel.app/api?username=AKXVAU&show_icons=true&theme=dark)
+<br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AKXVAU&layout=compact&theme=dark)
+
+<br>
+
+## TOTAL VIEW :
+
+![Visitor Count](https://profile-counter.glitch.me/AKXVAU/count.svg)
